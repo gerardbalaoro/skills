@@ -1,0 +1,8 @@
+pre-commit:
+  jobs:
+    - name: format
+      run: bun run format --write --no-error-on-unmatched-pattern {staged_files}
+      stage_fixed: true
+    - name: update readme
+      glob: "skills/*/SKILL.md"
+      run: bun ./scripts/readme.ts && git add README.md

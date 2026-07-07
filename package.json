@@ -1,0 +1,16 @@
+{
+  "name": "@gerardbalaoro/skills",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "format": "oxfmt",
+    "prepare": "lefthook install"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "gray-matter": "^4.0.3",
+    "lefthook": "^2.1.6",
+    "oxfmt": "^0.47.0",
+    "typescript": "^5"
+  }
+}
