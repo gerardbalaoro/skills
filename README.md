@@ -17,11 +17,15 @@ bun x skills add gerardbalaoro/skills
 ## Available Skills
 
 <!-- SKILLS:START -->
-_No skills found. Add a skill to the `skills/` directory to get started._
+### Engineering
+
+#### [compose-commits](skills/engineering/compose-commits/SKILL.md)
+
+Compose uncommitted changes, a linear commit range, branch, or PR into logical commits. Use when the user wants to split, clean up, organize, or rewrite commits. Always inspect first, propose a breakdown, get one confirmation, create a backup branch, then rewrite.
 <!-- SKILLS:END -->
 
 ## Contributing
 
-1. Create a new directory under `skills/` with your skill name
+1. Create a new directory under `skills/<domain>/` with your skill name
 2. Add a `SKILL.md` file with the required frontmatter (`name`, `description`)
 3. Run `bun ./scripts/readme.ts` to update the skills list above
