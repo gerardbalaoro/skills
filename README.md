@@ -28,6 +28,12 @@ Manage Dokploy instances through the HTTP API and Swagger reference. Use when th
 #### [compose-commits](skills/engineering/compose-commits/SKILL.md)
 
 Compose uncommitted changes, a linear commit range, branch, or PR into logical commits. Use when the user wants to split, clean up, organize, or rewrite commits. Always inspect first, propose a breakdown, get one confirmation, create a backup branch, then rewrite.
+
+### General
+
+#### [handoff](skills/general/handoff/SKILL.md)
+
+Compact the current conversation into a handoff document for another agent to pick up.
 <!-- SKILLS:END -->
 
 ## Contributing
