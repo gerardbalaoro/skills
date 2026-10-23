@@ -15,4 +15,8 @@ Rules for Git operations: writing commits, naming branches, and writing pull req
 ## [TypeScript Conventions](typescript-conventions/SKILL.md)
 
 Write, refactor, and review TypeScript with domain-oriented naming, inferred types, simple control flow, and clear module ownership.
+
+## [Writing Tests](writing-tests/SKILL.md)
+
+Write, refactor, and review tests that catch concrete bugs through real behavior. Use also to assess test value or prune ineffective tests.
 <!-- SKILLS:END -->
