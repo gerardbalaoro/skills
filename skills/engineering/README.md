@@ -16,6 +16,10 @@ Rules for Git operations: writing commits, naming branches, and writing pull req
 
 Write, refactor, and review TypeScript with domain-oriented naming, inferred types, simple control flow, and clear module ownership.
 
+## [Writing Documentation](writing-documentation/SKILL.md)
+
+Write, edit, and review technical documentation and code comments. Use to assess documentation needs and keep changes focused on the reader's task.
+
 ## [Writing Tests](writing-tests/SKILL.md)
 
 Write, refactor, and review tests that catch concrete bugs through real behavior. Use also to assess test value or prune ineffective tests.
