@@ -11,4 +11,8 @@ Compose uncommitted changes, a linear commit range, branch, or PR into logical c
 ## [Git Conventions](git-conventions/SKILL.md)
 
 Rules for Git operations: writing commits, naming branches, and writing pull requests.
+
+## [TypeScript Conventions](typescript-conventions/SKILL.md)
+
+Write, refactor, and review TypeScript with domain-oriented naming, inferred types, simple control flow, and clear module ownership.
 <!-- SKILLS:END -->

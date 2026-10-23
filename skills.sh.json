@@ -10,7 +10,7 @@
     {
       "title": "Engineering",
       "description": "Skills for common developer workflows.",
-      "skills": ["compose-commits", "git-conventions"]
+      "skills": ["compose-commits", "git-conventions", "typescript-conventions"]
     },
     {
       "title": "General",
