@@ -1,8 +1,11 @@
+glob_matcher: doublestar
+
 pre-commit:
   jobs:
+    - name: update catalogs
+      run: bun scripts/check-catalog-inputs.ts && bun run readme && bun run manifest && git add README.md "skills/*/README.md" skills.sh.json
     - name: format
+      glob:
+        - "**/*.{md,js,json,mjs,ts,yml,yaml}"
       run: bun run format --write --no-error-on-unmatched-pattern {staged_files}
       stage_fixed: true
-    - name: update readme
-      glob: "skills/*/SKILL.md"
-      run: bun ./scripts/readme.ts && git add README.md

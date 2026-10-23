@@ -1,0 +1,10 @@
+# General
+
+Skills for general agent workflows and session handoffs.
+
+<!-- SKILLS:START -->
+
+## [handoff](handoff/SKILL.md)
+
+Compact the current conversation into a handoff document for another agent to pick up.
+<!-- SKILLS:END -->

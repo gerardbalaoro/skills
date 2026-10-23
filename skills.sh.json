@@ -1,0 +1,21 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "DevOps",
+      "description": "Skills for deployment, infrastructure, and service operations.",
+      "skills": ["dokploy-api"]
+    },
+    {
+      "title": "Engineering",
+      "description": "Skills for common developer workflows.",
+      "skills": ["compose-commits"]
+    },
+    {
+      "title": "General",
+      "description": "Skills for general agent workflows and session handoffs.",
+      "skills": ["handoff"]
+    }
+  ]
+}
