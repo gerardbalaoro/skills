@@ -7,4 +7,8 @@ Skills for common developer workflows.
 ## [Compose Commits](compose-commits/SKILL.md)
 
 Compose uncommitted changes, a linear commit range, branch, or PR into logical commits. Use when the user wants to split, clean up, organize, or rewrite commits. Always inspect first, propose a breakdown, get one confirmation, create a backup branch, then rewrite.
+
+## [Git Conventions](git-conventions/SKILL.md)
+
+Rules for Git operations: writing commits, naming branches, and writing pull requests.
 <!-- SKILLS:END -->
