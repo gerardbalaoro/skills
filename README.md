@@ -50,6 +50,10 @@ Compose uncommitted changes, a linear commit range, branch, or PR into logical c
 
 Rules for Git operations: writing commits, naming branches, and writing pull requests.
 
+#### [Setup Gerard's Node Tooling](skills/engineering/setup-gerards-node-tooling/SKILL.md)
+
+Configure Gerard's Node project tooling for a new or existing project.
+
 #### [TypeScript Conventions](skills/engineering/typescript-conventions/SKILL.md)
 
 Write, refactor, and review TypeScript with domain-oriented naming, inferred types, simple control flow, and clear module ownership.

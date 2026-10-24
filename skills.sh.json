@@ -13,6 +13,7 @@
       "skills": [
         "compose-commits",
         "git-conventions",
+        "setup-gerards-node-tooling",
         "typescript-conventions",
         "writing-documentation",
         "writing-tests"
