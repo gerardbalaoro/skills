@@ -46,13 +46,13 @@ Skills for common developer workflows.
 
 Compose uncommitted changes, a linear commit range, branch, or PR into logical commits. Use when the user wants to split, clean up, organize, or rewrite commits. Always inspect first, propose a breakdown, get one confirmation, create a backup branch, then rewrite.
 
+#### [Gerardify](skills/engineering/gerardify/SKILL.md)
+
+Configure Gerard's Node project tooling for a new or existing project.
+
 #### [Git Conventions](skills/engineering/git-conventions/SKILL.md)
 
 Rules for Git operations: writing commits, naming branches, and writing pull requests.
-
-#### [Setup Gerard's Node Tooling](skills/engineering/setup-gerards-node-tooling/SKILL.md)
-
-Configure Gerard's Node project tooling for a new or existing project.
 
 #### [TypeScript Standards](skills/engineering/typescript-standards/SKILL.md)
 

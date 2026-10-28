@@ -1,0 +1,7 @@
+interface:
+  display_name: "Gerardify"
+  short_description: "Configure Gerard's Node project tooling"
+  default_prompt: "Use $gerardify to configure the tooling for this project."
+
+policy:
+  allow_implicit_invocation: false

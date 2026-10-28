@@ -12,8 +12,8 @@
       "description": "Skills for common developer workflows.",
       "skills": [
         "compose-commits",
+        "gerardify",
         "git-conventions",
-        "setup-gerards-node-tooling",
         "typescript-standards",
         "writing-documentation",
         "writing-tests"

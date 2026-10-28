@@ -1,10 +1,10 @@
 ---
-name: setup-gerards-node-tooling
+name: gerardify
 description: Configure Gerard's Node project tooling for a new or existing project.
 disable-model-invocation: true
 ---
 
-# Setup Gerard's Node Tooling
+# Gerardify
 
 Configure package management, typechecks, linting, and formatting for a new or existing JavaScript or TypeScript project.
 

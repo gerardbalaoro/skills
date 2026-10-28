@@ -1,7 +1,0 @@
-interface:
-  display_name: "Setup Gerard's Node Tooling"
-  short_description: "Configure Gerard's Node project tooling"
-  default_prompt: "Use $setup-gerards-node-tooling to configure the tooling for this project."
-
-policy:
-  allow_implicit_invocation: false
