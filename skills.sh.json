@@ -14,7 +14,7 @@
         "compose-commits",
         "git-conventions",
         "setup-gerards-node-tooling",
-        "typescript-conventions",
+        "typescript-standards",
         "writing-documentation",
         "writing-tests"
       ]

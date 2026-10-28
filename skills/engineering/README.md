@@ -16,9 +16,9 @@ Rules for Git operations: writing commits, naming branches, and writing pull req
 
 Configure Gerard's Node project tooling for a new or existing project.
 
-## [TypeScript Conventions](typescript-conventions/SKILL.md)
+## [TypeScript Standards](typescript-standards/SKILL.md)
 
-Write, refactor, and review TypeScript with domain-oriented naming, inferred types, simple control flow, and clear module ownership.
+TypeScript coding standards. Use when writing, refactoring, or reviewing TypeScript or TSX, including types, naming, imports, control flow, errors, module structure, and tests.
 
 ## [Writing Documentation](writing-documentation/SKILL.md)
 

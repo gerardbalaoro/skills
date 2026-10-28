@@ -140,7 +140,7 @@ Offer these project-local skills from `gerardbalaoro/skills`:
 
 - Base: `git-conventions` and `writing-documentation` (the repository name for the requested writing-docs skill).
 - Optional: `writing-tests`, for projects with tests or a requested test setup.
-- Optional: `typescript-conventions`, for projects that use TypeScript.
+- Optional: `typescript-standards`, for projects that use TypeScript.
 
 Ask which applicable skills the user wants to install. Continue independent tooling work while the answer is pending.
 Install only the selected skills after the user accepts the offer.
